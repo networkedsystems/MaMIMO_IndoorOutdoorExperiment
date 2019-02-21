@@ -11,16 +11,15 @@ Collocated Data Set: https://owncloud.esat.kuleuven.be/index.php/s/6ogkTwFscfCZL
 Distributed Data Set: https://owncloud.esat.kuleuven.be/index.php/s/XypP2r7kYi5Y25q 
 3. Don't forget to cite our work if any of this data will be used in any kind of publication. <br>
 
-@INPROCEEDINGS{8335182, 
-author={C. {Chen} and A. P. {Guevara} and S. {Pollin}}, 
-booktitle={2017 51st Asilomar Conference on Signals, Systems, and Computers}, 
-title={Scaling up distributed massive MIMO: Why and how}, 
-year={2017}, 
-pages={271-276}, 
-doi={10.1109/ACSSC.2017.8335182}, 
-ISSN={2576-2303}, 
-month={Oct},}
-
+@INPROCEEDINGS{8335182, <br>
+author={C. {Chen} and A. P. {Guevara} and S. {Pollin}}, <br>
+booktitle={2017 51st Asilomar Conference on Signals, Systems, and Computers}, <br>
+title={Scaling up distributed massive MIMO: Why and how}, <br>
+year={2017}, <br>
+pages={271-276}, <br>
+doi={10.1109/ACSSC.2017.8335182}, <br>
+ISSN={2576-2303}, <br>
+month={Oct},} <br>
 
 Note: The Matlab scripts in this repository will work only for the previous data set.
 
