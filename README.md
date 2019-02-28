@@ -8,7 +8,8 @@ Authors: Andrea P. Guevara, Cheng-Ming Chen. 2019
 1. Select your MaMIMO antenna distribution (collocated or distributed) according each outdoor experiment detailed here: https://owncloud.esat.kuleuven.be/index.php/s/2dTAfiGsHKxJJYJ
 2. Download the data set to be proccesed in the same folder with the attached Matlab scripts. <br>
 Data Set: https://owncloud.esat.kuleuven.be/index.php/s/snWjxSoEztFqMwN  <br>
-3. Don't forget to cite our work if any of this data will be used in any kind of publication. <br>
+3. This dataset is opened to the academic community for research. If the data is used in your publication, please cite our paper as follows: <br>
+
 https://ieeexplore.ieee.org/document/8335182  <br>
 
 @INPROCEEDINGS{8335182, <br>
